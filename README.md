@@ -1,10 +1,8 @@
 # DSA Solutions
 
-My solutions to LeetCode and CodeChef problems, written in Python.
+My solutions to LeetCode problems, written in Python.
 
 ## Solved Problems
-
-### LeetCode
 
 | # | Problem | Difficulty |
 |---|---------|------------|
@@ -21,13 +19,14 @@ My solutions to LeetCode and CodeChef problems, written in Python.
 | 3693 | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) | Medium |
 | 3789 | [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | Medium |
 
-### CodeChef
-
-| Code | Problem |
-|------|---------|
-| FIVECOIN | [Exact Change](https://www.codechef.com/problems/FIVECOIN) |
-| EVENODDS | [Even the Odds](https://www.codechef.com/problems/EVENODDS) |
-| MINRECT | [Rectangle Covering](https://www.codechef.com/problems/MINRECT) |
-| ALRMALRT | [Alarm Alert](https://www.codechef.com/problems/ALRMALRT) |
-
 ## Folder structure
+
+```
+leetcode/   -> LeetCode solutions (number-title.py)
+```
+
+Each file starts with the problem link, difficulty and approach.
+
+## Profiles
+
+[LeetCode](https://leetcode.com/u/pwCFqvRnsx/) | [CodeChef](https://www.codechef.com/users/anya_algo) | [HackerEarth](https://hackerearth.com/@chanchalrprajapati1457/)
