@@ -18,6 +18,7 @@ My solutions to LeetCode problems, written in Python.
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | 3693 | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) | Medium |
 | 3789 | [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | Medium |
+| 3331 | [Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/) | Medium |
 
 ## Folder structure
 
